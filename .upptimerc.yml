@@ -1,39 +1,61 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
-repo: upptime # Your GitHub repository name
+owner: hajeekn-co # Your GitHub organization or username
+repo: testweb # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
+  - name: Main Blog
+    url: https://blog.slqwq.cn
+  - name: HomePage
+    url: https://slqwq.cn
+  - name: Other CDN
+    url: https://moecdn.slqwq.cn
+  - name: Static Files CDN
+    url: https://static.slqwq.cn
+  - name: Static Files CDN Two
+    url: https://static-2.slqwq.cn
+  - name: Static Files CDN Three
+    url: https://static-3.slqwq.cn
+  - name: Unpkg Mirrors
+    url: https://unpkg.slqwq.cn
+  - name: Comments API
+    url: https://comments.api.slqwq.cn
+  - name: Main Blog (Test for HEAD)
     method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+    url: https://blog.slqwq.cn
+  - name: HomePage (Test for HEAD)
+    method: HEAD
+    url: https://slqwq.cn
+  - name: Other CDN (Test for HEAD)
+    method: HEAD
+    url: https://moecdn.slqwq.cn
+  - name: Static Files CDN (Test for HEAD)
+    method: HEAD
+    url: https://static.slqwq.cn
+  - name: Static Files CDN Two (Test for HEAD)
+    method: HEAD
+    url: https://static-2.slqwq.cn
+  - name: Static Files CDN Three (Test for HEAD)
+    method: HEAD
+    url: https://static-3.slqwq.cn
+  - name: Unpkg Mirrors (Test for HEAD)
+    method: HEAD
+    url: https://unpkg.slqwq.cn
+  - name: Comments API (Test for HEAD)
+    method: HEAD
+    url: https://comments.api.slqwq.cn
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: webstatus.slqwq.cn
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://moecdn.slqwq.cn/pic/logo.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "这是** Hajeekn **的网站及服务状态检测"
+  introMessage: 这是基于 upptime 制作的状态检测
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/hajeekn-co/testweb/
