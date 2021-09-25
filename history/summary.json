@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1297,
-    "timeDay": 1035,
-    "timeWeek": 1261,
+    "timeDay": 1040,
+    "timeWeek": 1262,
     "timeMonth": 1338,
     "timeYear": 1297,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://moecdn.slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/moecdn.slqwq.cn",
     "slug": "other-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 735,
     "timeDay": 844,
     "timeWeek": 673,
-    "timeMonth": 682,
+    "timeMonth": 683,
     "timeYear": 735,
     "dailyMinutesDown": {}
   },
