@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 660,
     "timeDay": 517,
-    "timeWeek": 520,
+    "timeWeek": 453,
     "timeMonth": 666,
     "timeYear": 660,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://moecdn.slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/moecdn.slqwq.cn",
     "slug": "other-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 730,
     "timeDay": 707,
-    "timeWeek": 672,
+    "timeWeek": 654,
     "timeMonth": 699,
     "timeYear": 730,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 585,
     "timeDay": 375,
-    "timeWeek": 280,
+    "timeWeek": 289,
     "timeMonth": 500,
     "timeYear": 585,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 645,
     "timeDay": 835,
-    "timeWeek": 560,
+    "timeWeek": 580,
     "timeMonth": 665,
     "timeYear": 645,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 498,
     "timeDay": 285,
-    "timeWeek": 344,
+    "timeWeek": 349,
     "timeMonth": 480,
     "timeYear": 498,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 494,
     "timeDay": 334,
-    "timeWeek": 429,
+    "timeWeek": 441,
     "timeMonth": 511,
     "timeYear": 494,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 2018,
     "timeDay": 3759,
-    "timeWeek": 2222,
+    "timeWeek": 2031,
     "timeMonth": 1670,
     "timeYear": 2018,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 59,
     "timeDay": 56,
-    "timeWeek": 57,
+    "timeWeek": 59,
     "timeMonth": 53,
     "timeYear": 59,
     "dailyMinutesDown": {}
