@@ -22,7 +22,7 @@
     "url": "https://slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/slqwq.cn",
     "slug": "home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1403,
     "timeDay": 1753,
     "timeWeek": 1660,
-    "timeMonth": 1531,
+    "timeMonth": 1532,
     "timeYear": 1403,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 742,
     "timeDay": 919,
     "timeWeek": 838,
-    "timeMonth": 748,
+    "timeMonth": 749,
     "timeYear": 742,
     "dailyMinutesDown": {}
   },
