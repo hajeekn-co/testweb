@@ -13,7 +13,7 @@
     "time": 675,
     "timeDay": 390,
     "timeWeek": 702,
-    "timeMonth": 726,
+    "timeMonth": 737,
     "timeYear": 675,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1444,
     "timeDay": 2233,
     "timeWeek": 1701,
-    "timeMonth": 1772,
+    "timeMonth": 1789,
     "timeYear": 1444,
     "dailyMinutesDown": {}
   },
@@ -40,17 +40,17 @@
     "url": "https://moecdn.slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/moecdn.slqwq.cn",
     "slug": "other-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 1117,
-    "timeWeek": 788,
-    "timeMonth": 862,
-    "timeYear": 759,
+    "time": 760,
+    "timeDay": 1133,
+    "timeWeek": 795,
+    "timeMonth": 875,
+    "timeYear": 760,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 581,
     "timeDay": 1797,
     "timeWeek": 789,
-    "timeMonth": 622,
+    "timeMonth": 630,
     "timeYear": 581,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 662,
     "timeDay": 537,
     "timeWeek": 441,
-    "timeMonth": 770,
+    "timeMonth": 785,
     "timeYear": 662,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 505,
     "timeDay": 393,
     "timeWeek": 1091,
-    "timeMonth": 562,
+    "timeMonth": 572,
     "timeYear": 505,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 514,
     "timeDay": 615,
     "timeWeek": 462,
-    "timeMonth": 510,
+    "timeMonth": 516,
     "timeYear": 514,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 2301,
     "timeDay": 5463,
     "timeWeek": 5159,
-    "timeMonth": 4031,
+    "timeMonth": 4162,
     "timeYear": 2301,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 60,
     "timeDay": 69,
     "timeWeek": 69,
-    "timeMonth": 65,
+    "timeMonth": 66,
     "timeYear": 60,
     "dailyMinutesDown": {}
   },
@@ -283,7 +283,7 @@
     "time": 156,
     "timeDay": 46,
     "timeWeek": 140,
-    "timeMonth": 150,
+    "timeMonth": 149,
     "timeYear": 156,
     "dailyMinutesDown": {}
   }
