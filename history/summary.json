@@ -22,16 +22,16 @@
     "url": "https://slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/slqwq.cn",
     "slug": "home-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1457,
-    "timeDay": 1136,
-    "timeWeek": 1780,
-    "timeMonth": 1689,
+    "timeDay": 1161,
+    "timeWeek": 1729,
+    "timeMonth": 1690,
     "timeYear": 1457,
     "dailyMinutesDown": {}
   },
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 749,
-    "timeDay": 608,
-    "timeWeek": 693,
+    "timeDay": 628,
+    "timeWeek": 697,
     "timeMonth": 748,
     "timeYear": 749,
     "dailyMinutesDown": {}
@@ -67,7 +67,7 @@
     "time": 572,
     "timeDay": 0,
     "timeWeek": 440,
-    "timeMonth": 566,
+    "timeMonth": 551,
     "timeYear": 572,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 662,
     "timeDay": 0,
     "timeWeek": 836,
-    "timeMonth": 658,
+    "timeMonth": 614,
     "timeYear": 662,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 500,
     "timeDay": 0,
     "timeWeek": 466,
-    "timeMonth": 584,
+    "timeMonth": 579,
     "timeYear": 500,
     "dailyMinutesDown": {}
   },
@@ -120,8 +120,8 @@
     "uptimeYear": "100.00%",
     "time": 513,
     "timeDay": 0,
-    "timeWeek": 513,
-    "timeMonth": 490,
+    "timeWeek": 527,
+    "timeMonth": 494,
     "timeYear": 513,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 2495,
     "timeDay": 0,
     "timeWeek": 5959,
-    "timeMonth": 5616,
+    "timeMonth": 5611,
     "timeYear": 2495,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 60,
     "timeDay": 0,
     "timeWeek": 51,
-    "timeMonth": 60,
+    "timeMonth": 59,
     "timeYear": 60,
     "dailyMinutesDown": {}
   },
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 93,
     "timeDay": 0,
-    "timeWeek": 74,
+    "timeWeek": 64,
     "timeMonth": 88,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -282,8 +282,8 @@
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 0,
-    "timeWeek": 101,
-    "timeMonth": 146,
+    "timeWeek": 92,
+    "timeMonth": 147,
     "timeYear": 154,
     "dailyMinutesDown": {}
   }
