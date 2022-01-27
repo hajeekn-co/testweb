@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1492,
     "timeDay": 657,
-    "timeWeek": 850,
+    "timeWeek": 857,
     "timeMonth": 1724,
     "timeYear": 1492,
     "dailyMinutesDown": {}
@@ -274,7 +274,7 @@
     "url": "https://comments.api.slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/comments.api.slqwq.cn",
     "slug": "comments-api-test-for-head",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
