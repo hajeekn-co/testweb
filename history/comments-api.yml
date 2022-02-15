@@ -1,7 +1,7 @@
 url: https://comments.api.slqwq.cn
-status: up
-code: 200
-responseTime: 6573
-lastUpdated: 2022-02-15T15:34:05.791Z
+status: down
+code: 429
+responseTime: 278
+lastUpdated: 2022-02-15T16:54:12.704Z
 startTime: Sat Apr 17 2021 12:25:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
