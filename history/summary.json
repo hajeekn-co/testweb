@@ -274,17 +274,17 @@
     "url": "https://comments.api.slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/comments.api.slqwq.cn",
     "slug": "comments-api-test-for-head",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 120,
-    "timeWeek": 1081,
-    "timeMonth": 1067,
-    "timeYear": 365,
+    "time": 364,
+    "timeDay": 108,
+    "timeWeek": 1028,
+    "timeMonth": 1054,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   }
 ]
