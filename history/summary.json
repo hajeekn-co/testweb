@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 646,
-    "timeDay": 499,
-    "timeWeek": 489,
+    "timeDay": 500,
+    "timeWeek": 490,
     "timeMonth": 397,
     "timeYear": 646,
     "dailyMinutesDown": {}
@@ -139,7 +139,7 @@
     "time": 3552,
     "timeDay": 409,
     "timeWeek": 3788,
-    "timeMonth": 5050,
+    "timeMonth": 5048,
     "timeYear": 3552,
     "dailyMinutesDown": {}
   },
@@ -166,7 +166,7 @@
     "url": "https://slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/slqwq.cn",
     "slug": "home-page-test-for-head",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
