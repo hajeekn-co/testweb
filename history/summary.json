@@ -22,7 +22,7 @@
     "url": "https://slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/slqwq.cn",
     "slug": "home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1284,
     "timeDay": 666,
-    "timeWeek": 634,
+    "timeWeek": 631,
     "timeMonth": 692,
     "timeYear": 1284,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://moecdn.slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/moecdn.slqwq.cn",
     "slug": "other-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -283,7 +283,7 @@
     "time": 457,
     "timeDay": 122,
     "timeWeek": 88,
-    "timeMonth": 1181,
+    "timeMonth": 1107,
     "timeYear": 457,
     "dailyMinutesDown": {}
   }
