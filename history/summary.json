@@ -31,7 +31,7 @@
     "time": 1272,
     "timeDay": 400,
     "timeWeek": 468,
-    "timeMonth": 625,
+    "timeMonth": 622,
     "timeYear": 1272,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 639,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 456,
+    "timeMonth": 468,
     "timeYear": 639,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 3644,
     "timeDay": 345,
     "timeWeek": 3809,
-    "timeMonth": 4731,
+    "timeMonth": 4718,
     "timeYear": 3644,
     "dailyMinutesDown": {}
   },
@@ -166,7 +166,7 @@
     "url": "https://slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/slqwq.cn",
     "slug": "home-page-test-for-head",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 29,
-    "timeWeek": 109,
+    "timeWeek": 116,
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {}
@@ -281,9 +281,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 457,
-    "timeDay": 41,
+    "timeDay": 39,
     "timeWeek": 245,
-    "timeMonth": 532,
+    "timeMonth": 542,
     "timeYear": 457,
     "dailyMinutesDown": {}
   }
