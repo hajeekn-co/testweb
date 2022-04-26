@@ -166,7 +166,7 @@
     "url": "https://slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/slqwq.cn",
     "slug": "home-page-test-for-head",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -175,7 +175,7 @@
     "time": 130,
     "timeDay": 63,
     "timeWeek": 317,
-    "timeMonth": 197,
+    "timeMonth": 198,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
