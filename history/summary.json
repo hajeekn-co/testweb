@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 414,
     "timeMonth": 363,
-    "timeYear": 536,
+    "timeYear": 537,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 5347,
     "timeWeek": 5424,
     "timeMonth": 4507,
-    "timeYear": 3739,
+    "timeYear": 3742,
     "dailyMinutesDown": {}
   },
   {
@@ -173,9 +173,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 66,
+    "timeDay": 67,
     "timeWeek": 241,
-    "timeMonth": 191,
+    "timeMonth": 193,
     "timeYear": 128,
     "dailyMinutesDown": {}
   },
@@ -256,7 +256,7 @@
     "url": "https://unpkg.slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/unpkg.slqwq.cn",
     "slug": "unpkg-mirrors-test-for-head",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -284,7 +284,7 @@
     "timeDay": 68,
     "timeWeek": 1323,
     "timeMonth": 776,
-    "timeYear": 491,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   }
 ]
