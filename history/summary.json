@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 125,
     "timeDay": 33,
-    "timeWeek": 59,
+    "timeWeek": 60,
     "timeMonth": 184,
     "timeYear": 125,
     "dailyMinutesDown": {}
@@ -274,17 +274,17 @@
     "url": "https://comments.api.slqwq.cn",
     "icon": "https://favicons.githubusercontent.com/comments.api.slqwq.cn",
     "slug": "comments-api-test-for-head",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 123,
-    "timeWeek": 1180,
-    "timeMonth": 792,
-    "timeYear": 502,
+    "time": 489,
+    "timeDay": 116,
+    "timeWeek": 1072,
+    "timeMonth": 776,
+    "timeYear": 501,
     "dailyMinutesDown": {}
   }
 ]
